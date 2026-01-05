@@ -56,10 +56,5 @@ See:
 
 ---
 
-## Profile README (for your GitHub homepage)
-See `PROFILE_README_TEMPLATE.md` for a polished GitHub profile overview.
-
----
-
 ## Disclaimer
 This is a research & engineering prototype and is not legal/medical/financial advice.
