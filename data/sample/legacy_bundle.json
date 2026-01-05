@@ -1,0 +1,25 @@
+{
+  "profile": {
+    "preferred_name": "Example Person",
+    "notes": "This is a demo legacy bundle. Replace with user-authorized content."
+  },
+  "accounts": [
+    {
+      "type": "instagram",
+      "username": "example_user",
+      "notes": "Follow platform memorialization steps."
+    },
+    {
+      "type": "steam",
+      "id": "example_steam_id",
+      "notes": "Account transfer policies vary by region."
+    }
+  ],
+  "works": [
+    {
+      "type": "writing",
+      "title": "A short note",
+      "path": "works/note.txt"
+    }
+  ]
+}
