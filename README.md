@@ -5,7 +5,7 @@ augmented by a privacy-preserving **Digital Profile** module.
 
 **Core idea**: *Smart contracts decide **when** access is unlocked; encrypted off-chain modules decide **what** is delivered and **how** it is represented.*
 
-## What’s included in this repo (v2)
+## What’s included in this repo
 
 ### On-chain (design + contract skeletons)
 - `InheritanceVault.sol`: inactivity / attestation triggers, challenge window, distribution execution
